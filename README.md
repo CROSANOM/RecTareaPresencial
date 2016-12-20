@@ -1,1 +1,2 @@
-# RecTareaPresencial
+# RecTareaPresencia
+CRISTINA ROSANO MORIN, APRENDIENDO PROGRAMACION
